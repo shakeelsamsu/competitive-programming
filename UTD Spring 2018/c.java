@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.math.*;
 
-public class c {
+public class C {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner in = new Scanner(new File("c.txt"));
         int n = in.nextInt();

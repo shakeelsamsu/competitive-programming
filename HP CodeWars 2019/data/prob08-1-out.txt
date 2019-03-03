@@ -1,0 +1,6 @@
+0 1 4 7 9 11. E E E F I L N N O R S U V Z
+
+NOTE: There are just enough letters to make any one of the spellings.
+You don't need letters for ALL spellings at once.  Just enough to
+make one of them at a time.  For example:
+SEVEN only needs 2 "E"s, but you'll need 3 in case you spell ELEVEN.

@@ -7,6 +7,8 @@ const int MAX = 1e4 + 1;
 int t, n, m;
 int arr[MAX];
 
+//Solved by JB
+//Solved During Contest
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(0);

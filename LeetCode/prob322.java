@@ -1,11 +1,6 @@
-import java.io.*;
 import java.util.*;
 
 public class prob322 {
-    public static void main(String[] args) {
-
-    }
-
     public int coinChange(int[] coins, int amount) {
         int[] dp = new int[amount + 1];
         Arrays.fill(dp, amount + 1);

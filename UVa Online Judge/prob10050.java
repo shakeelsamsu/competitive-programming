@@ -4,7 +4,6 @@ import java.util.*;
 public class prob10050 {
     public static void main(String[] args) throws Exception {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-        // BufferedReader in = new BufferedReader(new FileReader("input.txt"));
         PrintWriter out = new PrintWriter(new BufferedWriter(new OutputStreamWriter(System.out)));
 
         int t = Integer.parseInt(in.readLine());
